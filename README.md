@@ -1,7 +1,7 @@
 # recipe-app-api
 Recipe API project
 
-This is a Django Project built using TDD methodology. The application provides APIs for creating, updating and deleting recipes. APIs are also provided for adding ingredients and tags to recipes which can then be used to filter the recipes. The application is also docker containerized and configurations are added to make it production ready.
+This is a Django Project built using TDD methodology. The application provides APIs for creating, updating and deleting recipes. APIs are also provided for adding ingredients and tags to recipes which can then be used to filter the recipes. The application is also docker containerized and configurations are added to make it production ready. I've also tried to demonstrate some of the CI methodologies by ensuring linter and tests are run every time changes are committed to this repo through GitHub actions.
 
 To test the application locally, Git, Docker and Docker Compose tools are required.
 
